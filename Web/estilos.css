@@ -1,0 +1,190 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white
+}
+
+a{
+    text-decoration:none;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar{
+    background-color:green;
+    height: 2.5em;
+    display:flex;
+
+}
+
+.navbar a{
+    display:flex;
+    color: white;
+    margin:0 auto;
+    justify-content: space-between;
+    padding: 0.5em;
+    text-align: center;
+}
+
+.Inicio{
+    background-image: url(https://img.freepik.com/fotos-premium/grupo-mascotas-apoyandose-juntas-banner-web-vacio-colocar-texto-gatos-perros-conejo-huron-roedor-reptil-pajaro_191971-29748.jpg?w=996);
+    background-size: cover;
+    height: 32em;
+    color: black;
+    text-align: center;
+}
+
+.Inicio h1{
+    padding-top: 0.25em;
+    font-size: 3em;
+    padding-bottom: 5em;
+}
+
+.Inicio a{
+    background-color: white;
+    padding: 1em;
+}
+
+.Inicio a:hover{
+    background-color: grey;
+    color:white
+}
+
+.Inicio p{
+    font-size: 1.5em;
+}
+
+.Articulos_Principales{
+
+    display:flex;
+    text-align: center;
+    justify-content:space-between;
+    height: 24em;
+
+}
+
+.Articulos_Principales img{
+    position: relative;
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+.Marcas {
+    display:flex;
+    height: 10.5em;
+}
+
+.Marcas img{
+    position: relative;
+    text-align: center;
+    padding-top: 12em;
+    width: 15em;
+    margin-left: 0.5em;
+}
+
+.Ofertas {
+    background-image: url(https://img.freepik.com/fotos-premium/gran-grupo-gatos-perros-mirando-camara-sobre-fondo-azul_191971-28557.jpg?size=626&ext=jpg&ga=GA1.1.513155046.1699809804&semt=sph);
+    background-size: cover;
+    height: 69em;
+    text-align: center;
+    margin-top: 14.5em;
+}
+
+.Ofertas h2{
+    font-size: 10em;
+    color: black;
+    padding-top:0.25em;
+    text-align: center;
+}
+
+.Ofertas p{
+    text-align: center;
+    color: white;
+    font-size: 11em;
+    margin-bottom:0.5em;
+}
+
+.Ofertas a{
+    background-color: black;
+    padding: 1em;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+   
+}
+
+.Ofertas a:hover{
+    background-color: grey;
+    color:white;
+}
+
+.El_Mejor_Espacio_Para_Tu_Macota{
+    text-align: center;
+    font-size: 2.5em;
+    size: 2.5em;
+}
+.Habitats{
+    display:flex;
+    text-align: center;
+    justify-content:space-between;
+    height: 24em;
+}
+
+.Habitats img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex
+}
+
+.Nuestros_Servicios{
+    text-align: center;
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 4em;
+}
+.Servicios {
+    display:flex;
+    text-align: center;
+    justify-content:space-between;
+    height: 24.55em
+}
+
+.Servicios img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+}
+
+.cc {
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 4.5em;
+}
+.categoria {
+    display:flex;
+    text-align: center;
+    justify-content:space-between;
+    height: 15em;
+}
+
+.categoria img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+}
+
+.final {
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-top: 6em;
+
+}
+
+.final a{
+    display: flex;
+    color: white;
+    margin: auto;
+}

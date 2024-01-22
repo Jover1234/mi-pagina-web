@@ -1,0 +1,297 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.navbar{
+    background-color:green;
+    height: 2.5em;
+    display:flex;
+    margin-bottom: -2em;
+}
+
+.navbar a{
+    display:flex;
+    color: white;
+    margin:auto;
+    justify-content: space-between;
+    padding: 0.5em;
+    text-align: center;
+}
+
+.EnunciadoComidas{
+    font-size: 2.5em;
+    margin-bottom: -1em;
+}
+
+.Comidas1{
+    display:flex;
+    text-align: center;
+    justify-content: space-between;
+    height: 20em;
+}
+
+.Comidas1 img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin:auto;
+}
+
+.Comidas2{
+    display:flex;
+    text-align: center;
+    height: 18em;
+    margin-top: 9em;
+}
+
+.Comidas2 img{
+    position: relative;
+    text-align: center;
+    display:flex;
+    margin-right:6em;
+    margin-left: 4em;
+}
+
+.EnunciadoCamas{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+    margin-bottom: -1.55em;
+}
+
+.Camas{
+    display:flex;
+    text-align: center;
+    height: 20em;
+}
+
+.Camas img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin:auto;
+}
+
+.EnunciadoJuguetes{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Juguetes{
+    display:flex;
+    text-align: center;
+    justify-content:space-between;
+    height: 17em;
+}
+
+.Juguetes img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin:auto;
+}
+
+.EnunciadoTerrarios{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Terrarios{
+    display:flex;
+    text-align: center;
+    height: 17em;
+}
+
+.Terrarios img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin: auto;
+}
+
+.Terrarios h3{
+    margin: 1em;
+    font-size: 1em;
+}
+
+.EnunciadoAcuarios{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Acuarios{
+    display:flex;
+    text-align: center;
+    height: 16em;
+}
+
+.Acuarios img{
+    position: relative;
+    text-align: center;
+    display:flex;
+    margin: auto;
+}
+
+.EnunciadoJaulas{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Jaulas{
+    display:flex;
+    text-align: center;
+    height: 17em;
+}
+
+.Jaulas img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin: auto;
+}
+
+.Jaulas h3{
+    margin: 1em;
+    font-size: 1em;
+}
+
+.EnunciadoPerros{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Perros{
+    display:flex;
+    text-align: center;
+    height: 17em;
+}
+
+.Perros img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin: auto;
+}
+
+.EnunciadoGatos{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Gatos{
+    display:flex;
+    text-align: center;
+    height: 20em;
+}
+
+.Gatos img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin: auto;
+}
+
+.EnunciadoRoedores{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Roedores{
+    display:flex;
+    text-align: center;
+    height: 17em;
+}
+
+.Roedores img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin: auto;
+}
+
+.EnunciadoPeces{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Peces{
+    display:flex;
+    text-align: center;
+    height: 17em;
+}
+
+.Peces img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin: auto;
+}
+
+.EnunciadoAves{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Aves{
+    display:flex;
+    text-align: center;
+    height: 20em;
+}
+
+.Aves img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin: auto;
+}
+
+.Aves h3{
+    margin: 1em;
+}
+
+.EnunciadoReptiles{
+    font-size: 2.5em;
+    size: 2.5em;
+    margin-top: 3em;
+}
+
+.Reptiles{
+    display:flex;
+    text-align: center;
+    height: 20em;
+}
+
+.Reptiles img{
+    position: relative;
+    text-align: center;
+    size: 3.5em;
+    display:flex;
+    margin: auto;
+}

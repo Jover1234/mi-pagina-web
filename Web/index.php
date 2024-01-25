@@ -30,9 +30,6 @@
     <?php if(!empty($user)): ?>
       <br> Bienvenido. <?= $user['email']; ?>
       <br>Has sido registrado correctamente
-      <a href="logout.php">
-        cerrar Sesion
-      </a>
     <?php else: ?>
       <div class = cuadrado>
       <h1>INICIA SESSION O REGISTRATE</h1>

@@ -19,7 +19,7 @@ if (!empty($_POST['email']) && !empty($_POST['password'])) {
     if ($results && password_verify($_POST['password'], $results['password'])) {
         $_SESSION['user_id'] = $results['id'];
         // Autenticación exitosa, redirige o realiza acciones necesarias
-        header("Location: index.html");
+        header("Location: inicio.php");
         exit();
     } else {
         $message = 'Sorry, those credentials do not match';
